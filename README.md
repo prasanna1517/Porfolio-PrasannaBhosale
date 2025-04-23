@@ -45,3 +45,6 @@ This project is a dynamic **Java-based portfolio website** built using **Servlet
 - ✅ Modular architecture with Servlets & JSPs
 
 ---
+
+Video Demo (Google drive link)
+https://drive.google.com/file/d/1zKv1oZ2hy9MPQ4PipC5gPeygQNJ5Fmbq/view?usp=drive_link
