@@ -12,6 +12,8 @@ This project is a dynamic **Java-based portfolio website** built using **Servlet
 > Or run locally using Tomcat (instructions below)
 
 ---
+Video Demo (Google drive link)
+https://drive.google.com/file/d/1zKv1oZ2hy9MPQ4PipC5gPeygQNJ5Fmbq/view?usp=drive_link
 
 ## 🖼️ Screenshots
 
@@ -46,5 +48,3 @@ This project is a dynamic **Java-based portfolio website** built using **Servlet
 
 ---
 
-Video Demo (Google drive link)
-https://drive.google.com/file/d/1zKv1oZ2hy9MPQ4PipC5gPeygQNJ5Fmbq/view?usp=drive_link
